@@ -69,6 +69,17 @@
 	  <MauiXaml Update="Ejercicio6.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
+	  <MauiXaml Update="EjercicioMultiplicar.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	</ItemGroup>
+
+	<ItemGroup>
+	  <EditorConfigFiles Remove="C:\Users\angel\Source\Repos\APPMENU\APPMENU\.editorconfig" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <None Include="C:\Users\angel\Source\Repos\APPMENU\APPMENU\.editorconfig" />
 	</ItemGroup>
 
 </Project>
